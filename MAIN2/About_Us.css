@@ -1,0 +1,135 @@
+body{
+  background-color: #DEF3F5  ;
+  /* #E7D6D5 #D1CDCC */
+}
+
+
+.header{
+ background-color:#101010 ;
+ height: 70px;
+ display: block;
+ width: 100%;
+ padding: 0px;
+ }
+ .logo_container{
+    height: 100%;
+   display: table;
+   float: left;
+   padding: 0px 20px;
+    margin: 0px ;
+ }
+  .logo_container h1{
+   color: white;
+   height: 100%;
+   display: table-cell;
+   vertical-align: middle;
+   font-family: "montserrat";
+   font-size: 32px;
+   font-weight: 200;
+ }
+  .logo_container h1 span{
+   font-weight: 800;
+ }
+ .logo_container1{
+   height: 100%;
+   display: table;
+   float: right;
+   padding: 0px 20px;
+  margin: 0px ;
+ }
+ .logo_container1 h2 {
+   color: white;
+   height: 100%;
+   display: table-cell;
+   vertical-align: middle;
+   font-family: "montserrat";
+   font-size: 32px;
+   font-weight: 200;
+   }
+   #login-log{
+     text-decoration: none;
+   }
+   .footer{
+     background-color:#101010 ;
+     position: absolute;
+     top: 75%;
+   height: 170px;
+   display: block;
+   width: 99%;
+   padding: 0px;
+
+   }
+   /* .inner_header{
+     width: 500px;
+     height:100%;
+     display: block;
+     margin: 0 auto;
+     background-color:red ;
+   } */
+   .logoo_container{
+     height: 100%;
+     display: table;
+     float: left;
+     padding: 0px 20px;
+     /* margin: 0px ; */
+   }
+   .logoo_container h1{
+     color: white;
+     height: 100%;
+     display: table-cell;
+     vertical-align: middle;
+     font-family: "montserrat";
+     font-size: 32px;
+     font-weight: 200;
+   }
+   .logoo_container h1 span{
+     font-weight: 800;
+   }
+   .logoo_container1{
+     height: 100%;
+     display: table;
+     float: right;
+     padding: 0px 20px;
+     /* margin: 0px ; */
+   }
+   .logoo_container1 h2 {
+     color: white;
+     height: 100%;
+     display: table-cell;
+     vertical-align: middle;
+     font-family: "montserrat";
+     font-size: 32px;
+     font-weight: 200;
+   }
+   #map{
+     color: white;
+   }
+   #phn{
+     color: white;
+   }
+   #mail{
+     color: white;
+   }
+   #fb{
+     color: white;
+   }
+   #insta{
+     color: white;
+   }
+   #google{
+     color: white;
+   }
+   #twitter{
+     color: white;
+   }
+   #car-log{
+     color: white;
+   }
+   #login-log{
+
+     text-decoration: none;
+
+   }
+   #ide{
+     color: white;
+   }
